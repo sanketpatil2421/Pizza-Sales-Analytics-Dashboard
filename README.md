@@ -5,7 +5,10 @@
 
 
 🍕 Pizza Sales Analytics Dashboard (Power BI & MS SQL)
+
+
 📌 Project Description
+
 
 This project analyzes pizza sales data to uncover key business insights related to revenue, customer ordering behavior, and product performance. The data was queried and transformed using MS SQL Server, and an interactive dashboard was developed in Power BI to visualize key performance indicators and sales trends.
 
@@ -13,6 +16,7 @@ The dashboard enables users to explore sales data dynamically using slicers and 
 
 
 🛠 Tools & Technologies
+
 
 MS SQL Server
 
@@ -24,6 +28,7 @@ DAX
 
 
 📊 Key Features
+
 
 KPI tracking: Total Revenue, Total Orders, Average Order Value
 
@@ -38,7 +43,7 @@ Business-focused insights and recommendations
 
 
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 Large-size pizzas generate the highest revenue
 
